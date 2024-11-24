@@ -53,7 +53,7 @@ st.markdown('<div class="subtitle">AI for Scene Understanding, Text Extraction &
 
 # Sidebar Features
 st.sidebar.image(
-    r"C:\Users\91771\Desktop\Innomatic\Internship\GEN AI and LLM\AI Power Assitant\LogoV.png",
+   "Logo.png",
     width=250
 )
 
